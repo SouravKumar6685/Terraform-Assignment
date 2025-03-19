@@ -1,8 +1,5 @@
 ### **🔥 Terraform Interview Assignment (Real-World Scenario-Based) 🚀**  
 
-This assignment is designed to **simulate real-world challenges** and test your Terraform expertise across **basics, intermediate, and advanced** concepts. Complete it as if you were working on a production-grade project.  
-
----
 
 ## **📌 Assignment: Deploy a Highly Available Web Application on AWS using Terraform**  
 
