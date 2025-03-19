@@ -87,4 +87,4 @@ You need to use **Terraform** to deploy a **highly available web application** o
 ---
 
 ## **🚀 Final Thoughts**
-This assignment **mirrors real-world DevOps challenges** and will prepare you for **any Terraform interview**! 💪  
+This assignment **mirrors real-world DevOps challenges** checks my **Terraform** Knowledge.
